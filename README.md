@@ -1,5 +1,5 @@
 # r8152-dkms
-r8152 dkms.conf for Ubuntu 20.04, based on [amrik/r8152-dkms](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-usb-3-0-software).
+r8152 dkms.conf for Ubuntu 20.04, based on [amrik/r8152-dkms](https://github.com/amrik/r8152-dkms).
 
 
 # Instructions
